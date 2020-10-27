@@ -3,7 +3,7 @@
 
 # Hi There 🤩 
 
-### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
+### Olá </h2>
 
 <center>
 <table>
@@ -13,3 +13,5 @@
     </tr>   
 </table>
 </center>  
+
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário) 
