@@ -3,10 +3,12 @@
 
 # Hi There 🤩 
 
+### Texto de boas vindas <img src="link_da_imagem" width="30px"></h2>
+
 <center>
 <table>
     <tr>
-        <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianFerreira&hide=html&layout=compact&theme=buefy" /> 
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianFerreira&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElianFerreira&theme=buefy"/></td>
     </tr>   
 </table>
