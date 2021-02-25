@@ -1,4 +1,8 @@
 
+# Hi There  🖐
+
+#### Sou estudante de Ciência da Computação, me aperfeiçoando cada dia mais em meus objetivos.
+
 
 <center>
 <table>
@@ -9,6 +13,4 @@
 </table>
 </center>  
 
-# Hi There  🖐
 
-#### Sou estudante de Ciência da Computação, me aperfeiçoando cada dia mais em meus objetivos.
