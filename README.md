@@ -1,16 +1,12 @@
-
-# Hi There  🖐
-
-#### Sou estudante de Ciência da Computação, me aperfeiçoando cada dia mais em meus objetivos.
+## Olá! eu sou Elian Ferreira
 
 
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElianFerreira&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ElianFerreira&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
+<div>
+  <a href="https://github.com/elianferreira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 
 
